@@ -602,7 +602,19 @@
    "location": "",
    "notes": "",
    "type": "round"
+  },
+  {
+   "id": "eckbne78",
+   "week": 0,
+   "day": 0,
+   "start": 420,
+   "end": 480,
+   "title": "",
+   "lecturer": "",
+   "location": "",
+   "notes": "",
+   "type": "lecture"
   }
  ],
- "savedAt": "2026-10-05T14:04:08.758Z"
+ "savedAt": "2026-10-05T14:04:15.418Z"
 }
