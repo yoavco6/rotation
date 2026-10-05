@@ -265,7 +265,7 @@
    "lecturer": "",
    "location": "",
    "notes": "",
-   "type": "clinical"
+   "type": "cases"
   },
   {
    "id": "c19",
@@ -652,5 +652,5 @@
    "type": "round"
   }
  ],
- "savedAt": "2026-10-05T14:02:54.735Z"
+ "savedAt": "2026-10-05T14:03:05.918Z"
 }
