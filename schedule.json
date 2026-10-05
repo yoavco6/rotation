@@ -607,7 +607,19 @@
    "location": "",
    "notes": "",
    "type": "round"
+  },
+  {
+   "id": "erz7uuis",
+   "week": 1,
+   "day": 2,
+   "start": 450,
+   "end": 1020,
+   "title": "יום בחירות - חופש",
+   "lecturer": "",
+   "location": "",
+   "notes": "",
+   "type": "twel7q"
   }
  ],
- "savedAt": "2026-10-05T14:04:48.767Z"
+ "savedAt": "2026-10-05T14:05:06.429Z"
 }
