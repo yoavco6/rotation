@@ -626,7 +626,19 @@
    "location": "",
    "notes": "",
    "type": "admin"
+  },
+  {
+   "id": "ec4wrvn6",
+   "week": 1,
+   "day": 3,
+   "start": 660,
+   "end": 720,
+   "title": "תרגול ",
+   "lecturer": "",
+   "location": "",
+   "notes": "",
+   "type": "lecture"
   }
  ],
- "savedAt": "2026-10-05T13:58:52.224Z"
+ "savedAt": "2026-10-05T13:59:03.126Z"
 }
