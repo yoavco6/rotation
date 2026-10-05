@@ -232,18 +232,6 @@
    "type": "lunch"
   },
   {
-   "id": "c15",
-   "week": 0,
-   "day": 2,
-   "start": 810,
-   "end": 900,
-   "title": "סדנת גבסים",
-   "lecturer": "דר' יואב קומיי",
-   "location": "מיון אסף הרופא",
-   "notes": "",
-   "type": "workshop"
-  },
-  {
    "id": "c16",
    "week": 0,
    "day": 2,
@@ -640,5 +628,5 @@
    "type": "admin"
   }
  ],
- "savedAt": "2026-10-05T13:56:49.327Z"
+ "savedAt": "2026-10-05T13:57:01.037Z"
 }
