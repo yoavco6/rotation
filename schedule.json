@@ -626,7 +626,19 @@
    "location": "",
    "notes": "",
    "type": "exam"
+  },
+  {
+   "id": "eqqblluk",
+   "week": 0,
+   "day": 2,
+   "start": 600,
+   "end": 660,
+   "title": "הפסקה",
+   "lecturer": "",
+   "location": "",
+   "notes": "",
+   "type": "admin"
   }
  ],
- "savedAt": "2026-10-05T13:55:12.007Z"
+ "savedAt": "2026-10-05T13:55:23.322Z"
 }
