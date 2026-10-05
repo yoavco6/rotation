@@ -565,7 +565,7 @@
    "lecturer": "",
    "location": "",
    "notes": "",
-   "type": "cases"
+   "type": "lecture"
   },
   {
    "id": "d18",
@@ -628,5 +628,5 @@
    "type": "admin"
   }
  ],
- "savedAt": "2026-10-05T13:57:44.979Z"
+ "savedAt": "2026-10-05T13:57:58.329Z"
 }
