@@ -496,54 +496,6 @@
    "type": "lecture"
   },
   {
-   "id": "d12",
-   "week": 1,
-   "day": 2,
-   "start": 600,
-   "end": 720,
-   "title": "שברי צוואר ירך ושברים גריאטריים",
-   "lecturer": "יואב קומ",
-   "location": "",
-   "notes": "",
-   "type": "lecture"
-  },
-  {
-   "id": "d13",
-   "week": 1,
-   "day": 2,
-   "start": 720,
-   "end": 780,
-   "title": "ארוחת צהריים",
-   "lecturer": "",
-   "location": "",
-   "notes": "",
-   "type": "lunch"
-  },
-  {
-   "id": "d14",
-   "week": 1,
-   "day": 2,
-   "start": 780,
-   "end": 900,
-   "title": "תרגול מקרים",
-   "lecturer": "",
-   "location": "",
-   "notes": "",
-   "type": "cases"
-  },
-  {
-   "id": "d15",
-   "week": 1,
-   "day": 2,
-   "start": 900,
-   "end": 1020,
-   "title": "חדר ניתוח ססיות / מיון",
-   "lecturer": "",
-   "location": "",
-   "notes": "",
-   "type": "sessions"
-  },
-  {
    "id": "d16",
    "week": 1,
    "day": 3,
@@ -652,5 +604,5 @@
    "type": "round"
   }
  ],
- "savedAt": "2026-10-05T14:03:56.549Z"
+ "savedAt": "2026-10-05T14:04:08.758Z"
 }
