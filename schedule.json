@@ -638,7 +638,19 @@
    "location": "",
    "notes": "",
    "type": "cases"
+  },
+  {
+   "id": "ew29rbfh",
+   "week": 0,
+   "day": 3,
+   "start": 600,
+   "end": 660,
+   "title": "",
+   "lecturer": "",
+   "location": "",
+   "notes": "",
+   "type": "lecture"
   }
  ],
- "savedAt": "2026-10-05T14:02:29.967Z"
+ "savedAt": "2026-10-05T14:02:38.282Z"
 }
