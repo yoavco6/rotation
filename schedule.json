@@ -573,18 +573,6 @@
    "type": "exam"
   },
   {
-   "id": "eqqblluk",
-   "week": 0,
-   "day": 2,
-   "start": 600,
-   "end": 660,
-   "title": "הפסקה",
-   "lecturer": "",
-   "location": "",
-   "notes": "",
-   "type": "admin"
-  },
-  {
    "id": "ec4wrvn6",
    "week": 1,
    "day": 3,
@@ -621,5 +609,5 @@
    "type": "twel7q"
   }
  ],
- "savedAt": "2026-10-09T12:15:40.424Z"
+ "savedAt": "2026-10-09T12:15:51.075Z"
 }
