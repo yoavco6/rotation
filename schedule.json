@@ -414,7 +414,7 @@
    "lecturer": "",
    "location": "חדר ישיבות אורתופדיה",
    "notes": "",
-   "type": "cases"
+   "type": "lecture"
   },
   {
    "id": "d05",
@@ -621,5 +621,5 @@
    "type": "cases"
   }
  ],
- "savedAt": "2026-10-09T12:31:19.745Z"
+ "savedAt": "2026-10-09T12:43:25.461Z"
 }
