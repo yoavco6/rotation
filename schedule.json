@@ -607,7 +607,19 @@
    "location": "",
    "notes": "",
    "type": "twel7q"
+  },
+  {
+   "id": "epdkoddn",
+   "week": 0,
+   "day": 4,
+   "start": 465,
+   "end": 555,
+   "title": "",
+   "lecturer": "",
+   "location": "",
+   "notes": "",
+   "type": "cases"
   }
  ],
- "savedAt": "2026-10-09T12:30:06.796Z"
+ "savedAt": "2026-10-09T12:30:37.960Z"
 }
