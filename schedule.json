@@ -264,8 +264,8 @@
    "id": "c19",
    "week": 0,
    "day": 3,
-   "start": 780,
-   "end": 840,
+   "start": 720,
+   "end": 780,
    "title": "ארוחת צהריים",
    "lecturer": "",
    "location": "",
@@ -577,7 +577,7 @@
    "week": 0,
    "day": 3,
    "start": 600,
-   "end": 780,
+   "end": 720,
    "title": "חדרי ניתוח ומרפאות",
    "lecturer": "",
    "location": "",
@@ -609,5 +609,5 @@
    "type": "cases"
   }
  ],
- "savedAt": "2026-10-14T08:50:51.100Z"
+ "savedAt": "2026-10-14T08:51:41.275Z"
 }
