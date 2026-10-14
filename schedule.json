@@ -122,11 +122,11 @@
    "day": 0,
    "start": 780,
    "end": 900,
-   "title": "גישה לאורתופדיה",
-   "lecturer": "דר' יואב קומיי",
-   "location": "חדר ישיבות אורתופדיה",
+   "title": "הצטרפות למיון",
+   "lecturer": "",
+   "location": "",
    "notes": "",
-   "type": "lecture"
+   "type": "clinical"
   },
   {
    "id": "c06",
@@ -621,5 +621,5 @@
    "type": "cases"
   }
  ],
- "savedAt": "2026-10-10T06:59:57.226Z"
+ "savedAt": "2026-10-14T08:47:04.179Z"
 }
