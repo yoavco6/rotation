@@ -619,7 +619,19 @@
    "location": "",
    "notes": "",
    "type": "lecture"
+  },
+  {
+   "id": "e4s9kgjd",
+   "week": 0,
+   "day": 0,
+   "start": 420,
+   "end": 480,
+   "title": "",
+   "lecturer": "",
+   "location": "",
+   "notes": "",
+   "type": "lecture"
   }
  ],
- "savedAt": "2026-10-18T18:24:00.414Z"
+ "savedAt": "2026-10-18T18:24:11.777Z"
 }
