@@ -607,7 +607,19 @@
    "location": "חדר ישיבות אורתופדיה",
    "notes": "",
    "type": "cases"
+  },
+  {
+   "id": "eed6o417",
+   "week": 1,
+   "day": 0,
+   "start": 420,
+   "end": 480,
+   "title": "",
+   "lecturer": "",
+   "location": "",
+   "notes": "",
+   "type": "lecture"
   }
  ],
- "savedAt": "2026-10-18T03:50:40.033Z"
+ "savedAt": "2026-10-18T18:22:51.370Z"
 }
