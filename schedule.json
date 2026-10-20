@@ -564,8 +564,8 @@
    "id": "ew29rbfh",
    "week": 0,
    "day": 1,
-   "start": 600,
-   "end": 720,
+   "start": 660,
+   "end": 780,
    "title": "חדרי ניתוח ומרפאות",
    "lecturer": "",
    "location": "",
@@ -633,5 +633,5 @@
    "type": "cases"
   }
  ],
- "savedAt": "2026-10-19T15:26:33.374Z"
+ "savedAt": "2026-10-20T18:41:30.054Z"
 }
