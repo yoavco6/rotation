@@ -611,9 +611,9 @@
   {
    "id": "eed6o417",
    "week": 1,
-   "day": 1,
-   "start": 420,
-   "end": 480,
+   "day": 3,
+   "start": 960,
+   "end": 1020,
    "title": "",
    "lecturer": "",
    "location": "",
@@ -633,5 +633,5 @@
    "type": "cases"
   }
  ],
- "savedAt": "2026-10-22T04:41:48.989Z"
+ "savedAt": "2026-10-22T04:42:20.392Z"
 }
