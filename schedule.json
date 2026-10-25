@@ -447,8 +447,8 @@
    "start": 780,
    "end": 900,
    "title": "מיון, חדר ניתוח",
-   "lecturer": "דר' יואב קומיי",
-   "location": "חדר ישיבות אורתופדיה",
+   "lecturer": "",
+   "location": "",
    "notes": "",
    "type": "clinical"
   },
@@ -621,5 +621,5 @@
    "type": "clinical"
   }
  ],
- "savedAt": "2026-10-22T18:41:44.843Z"
+ "savedAt": "2026-10-25T14:50:24.486Z"
 }
