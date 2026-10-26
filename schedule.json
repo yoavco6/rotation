@@ -558,7 +558,7 @@
    "lecturer": "דר' דרור לינדנר",
    "location": "חדר ישיבות אורתופדיה",
    "notes": "",
-   "type": "cases"
+   "type": "lecture"
   },
   {
    "id": "ew29rbfh",
@@ -621,5 +621,5 @@
    "type": "clinical"
   }
  ],
- "savedAt": "2026-10-26T09:13:16.737Z"
+ "savedAt": "2026-10-26T09:13:34.587Z"
 }
